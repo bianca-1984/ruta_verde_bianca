@@ -1,0 +1,10 @@
+.fondo-texto{
+    background-color: antiquewhite;
+    width: 450px;
+    height: 80px;
+}
+
+.imagenes>img{
+    width: 250px;
+    height: auto;
+}
